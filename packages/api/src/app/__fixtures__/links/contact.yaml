@@ -1,0 +1,7 @@
+version: 0.3.17
+cache: false
+interface:
+  privacyPolicy:
+    externalUrl: 'mailto:privacy@example.com'
+  termsOfService:
+    externalUrl: 'https://example.com/terms'
